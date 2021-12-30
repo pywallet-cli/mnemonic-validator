@@ -1,0 +1,12 @@
+# privatekey-generator
+Generate keys/addresses from a mnemonic seed phrase (12-24 words)
+
+usage: privatekey-cli [-h] -m MNEMONIC
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -m MNEMONIC, --m MNEMONIC
+                        Mnemonic 12-24 words between commas
+                        
+example:
+./checkmnemonic-cli -m "lucky labor rally law toss orange weasel try surge meadow type crumble proud slide century"
