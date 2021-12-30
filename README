@@ -1,7 +1,7 @@
-# privatekey-generator
-Generate keys/addresses from a mnemonic seed phrase (12-24 words)
+# checkmnemonic-cli
+Validate mnemonic seed phrase (12-24 words)
 
-usage: privatekey-cli [-h] -m MNEMONIC
+usage: checkmnemonic-cli [-h] -m MNEMONIC
 
 optional arguments:
   -h, --help            show this help message and exit
