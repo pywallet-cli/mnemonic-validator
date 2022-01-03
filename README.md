@@ -13,4 +13,4 @@ Execute mnemonic-validator.exe in CLI (cmd.exe)
                         -m MNEMONIC           mnemonic pharase between commas
                         
 # Example
-  ./mnemonic-validator-cli -m "lucky labor rally law toss orange weasel try surge meadow type crumble proud slide century"
+    ./mnemonic-validator-cli -m "lucky labor rally law toss orange weasel try surge meadow type crumble proud slide century"
