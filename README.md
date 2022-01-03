@@ -9,7 +9,9 @@ Execute mnemonic-validator.exe in CLI (cmd.exe)
 
 # Arguments
   -h, --help            show this help message and exit
+  
   -m MNEMONIC, --m MNEMONIC
+  
                         Mnemonic 12-24 words between commas
                         
 # Example
