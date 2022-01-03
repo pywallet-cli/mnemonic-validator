@@ -1,4 +1,4 @@
-# mnemonic-validator-cli
+# Mnemonic Validator (CLI)
     Validate mnemonic seed phrase (12-24 words)
 
 # Linux Usage
