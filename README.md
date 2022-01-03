@@ -2,7 +2,7 @@
   Validate mnemonic seed phrase (12-24 words)
 
 # Linux Usage
-  sudo ./mnemonic-validator-cli
+    sudo ./mnemonic-validator-cli
 
 # Windows Usage
   Execute mnemonic-validator.exe in CLI (cmd.exe)
