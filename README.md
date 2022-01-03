@@ -8,11 +8,9 @@ sudo ./mnemonic-validator-cli
 Execute mnemonic-validator.exe in CLI (cmd.exe)
 
 # Arguments
-  -h, --help            show this help message and exit
-  
-  -m MNEMONIC, --m MNEMONIC
-  
-                        Mnemonic 12-24 words between commas
+                        
+                        -h, --help            show this help message and exit
+                        -m MNEMONIC           mnemonic pharase between commas
                         
 # Example
 ./mnemonic-validator-cli -m "lucky labor rally law toss orange weasel try surge meadow type crumble proud slide century"
