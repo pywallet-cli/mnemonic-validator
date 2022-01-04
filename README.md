@@ -21,3 +21,11 @@ Validate mnemonic seed phrase (12-24 words)
                         
 # Example
     ./mnemonic-validator-cli -m "lucky labor rally law toss orange weasel try surge meadow type crumble proud slide century"
+
+
+## Donation ##
+If you find this program helpful, please consider a donation:
+
+BTC: bc1qqtspvvyl5nv2dwffd0zwppledlmct7sydpd9l5
+
+**Thank You!**
